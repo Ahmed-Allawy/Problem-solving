@@ -1,5 +1,5 @@
 
-//  https://codeforces.com/group/T3p02rhrmb/contest/334358/my
+//  https://codeforces.com/group/T3p02rhrmb/contest/334358/problem/P
 import java.util.Scanner;
 public class main
 {
